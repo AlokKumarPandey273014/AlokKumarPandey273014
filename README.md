@@ -1,3 +1,19 @@
+## 📊 GitHub Stats & Repositories
+
+### 📈 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlokKumarPandey273014&show_icons=true&theme=dark&count_private=true)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlokKumarPandey273014&theme=dark)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlokKumarPandey273014&layout=compact&theme=dark)
+
+### 📚 Popular Repositories
+[![Notes Repo](https://github-readme-stats.vercel.app/api/pin/?username=AlokKumarPandey273014&repo=Notes&theme=dark)](https://github.com/AlokKumarPandey273014/Notes)
+
+
+
 # Hi, I'm Alok Kumar Pandey! 👋
 
 I'm a passionate **web developer** with experience in **ASP.NET**, **API development**, and **SQL**. Currently, I’m diving into **full stack development** and **cloud computing**.
