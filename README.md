@@ -1,7 +1,7 @@
 
 # Hi, I'm Alok Kumar Pandey! 👋
 
-## 🌱 I’m currently learning:
+## 🌱 Skills:-
 - C#
 - ASP.NET MVC & API
 - SQL Databases, MYSQL Server
