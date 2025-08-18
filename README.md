@@ -6,12 +6,6 @@ I'm a passionate **web developer** with experience in **ASP.NET**, **API develop
 ## 🌱 I’m currently learning:
 - ASP.NET MVC & API
 - SQL Databases
-- Cloud Technologies (AWS, Azure)
-
-## 👀 I'm interested in:
-- Building scalable backend systems
-- Open-source contributions
-- Collaborating on web development projects
 
 ## 💞️ I'm looking to collaborate on:
 - Web applications
@@ -21,11 +15,3 @@ I'm a passionate **web developer** with experience in **ASP.NET**, **API develop
 ## 📫 How to reach me:
 - Email: **alokkumarpandey273014@gmail.com**  
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/akp983730)
-- Twitter: [@YourHandle](https://twitter.com/yourhandle)
-
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun fact:
-- I love coding challenges and solving complex problems.
-
