@@ -20,7 +20,7 @@ I'm a passionate **web developer** with experience in **ASP.NET**, **API develop
 
 ## 📫 How to reach me:
 - Email: **alokkumarpandey273014@gmail.com**  
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/akp983730)
 - Twitter: [@YourHandle](https://twitter.com/yourhandle)
 
 ## 😄 Pronouns:
