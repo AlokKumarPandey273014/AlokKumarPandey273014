@@ -1,15 +1,11 @@
 
 # Hi, I'm Alok Kumar Pandey! 👋
 
-
 ## 🌱 I’m currently learning:
+- C#
 - ASP.NET MVC & API
-- SQL Databases
-
-## 💞️ I'm looking to collaborate on:
-- Web applications
-- Full Satck development
-- Open-source projects
+- SQL Databases, MYSQL Server
+- HTML, CSS, Javascript, JQuery
 
 ## 📫 How to reach me:
 - Email: **alokkumarpandey273014@gmail.com**  
