@@ -1,7 +1,6 @@
 
 # Hi, I'm Alok Kumar Pandey! 👋
 
-I'm a passionate **web developer** with experience in **ASP.NET**, **API development**, and **SQL**. Currently, I’m diving into **full stack development** and **cloud computing**.
 
 ## 🌱 I’m currently learning:
 - ASP.NET MVC & API
