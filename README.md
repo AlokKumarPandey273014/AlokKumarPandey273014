@@ -14,4 +14,4 @@ I'm a passionate **web developer** with experience in **ASP.NET**, **API develop
 
 ## 📫 How to reach me:
 - Email: **alokkumarpandey273014@gmail.com**  
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/akp983730)
+- LinkedIn: [Alok Kumar Pandey](https://www.linkedin.com/in/akp983730)
